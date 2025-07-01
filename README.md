@@ -152,13 +152,23 @@ This tool was developed for analyzing neural data from **whisker-evoked response
 ## 📊 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+<div align="center">
+  <img src="screenshots/main_interface.png" width="500"/>
+</div>
+
 
 ### 3D Brain Visualization
-![3D Brain](screenshots/3d_brain.png)
+<div align="center">
+  <img src="screenshots/3d_brain.png" width="500"/>
+</div>
 
+ 
 ### PSTH Analysis
-![PSTH Analysis](screenshots/psth_analysis.png)
+<div align="center">
+  <img src="screenshots/psth_analysis.png" width="500"/>
+</div>
+
+
 
 ## 🎥 Demo Video
 
@@ -204,13 +214,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-**Made with ❤️ for neuroscience research**
+<span style="font-size: 18px; font-weight: bold;">
+  Made with ❤️ for neuroscience research
+</span>
 
-[![EPFL](https://img.shields.io/badge/EPFL-Brain%20Mind%20Institute-red.svg)](https://www.epfl.ch/research/domains/brain-mind-institute/)
+<img src="https://www.epfl.ch/labs/lsens/wp-content/uploads/2023/02/LSENS_Logo_20230202-1920x1080.jpg" width="100"/>
 
-</div> 
-=======
-# ephys_data_viewer
->>>>>>> 0ac6f0d5ac1ea3b6b6a1d182cc83416d05389695
+<img src="https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg" width="80"/>
+
+</div>
+
+
+
+
