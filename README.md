@@ -30,14 +30,14 @@ It supports brain-region-specific plots, trial-wise interaction, and flexible re
 
 ### 🎮 **Behavioral Signal Processing**
 - **Movement Tracking**: Whisker angle, jaw movement, tongue movement
-- **Signal Processing**: Savitzky-Golay filtering, speed calculations
+- **Signal Processing**:  filtering, speed calculations
 - **Real-time Alignment**: Behavioral signals aligned to neural events
 
 ### 🎨 **Modern Web Interface**
 - **Responsive Design**: Works on desktop and tablet
 - **Real-time Updates**: Instant visualization updates
 - **Professional UI**: Clean, research-grade interface
-- **Export Ready**: High-quality plots for publications
+- **Export Ready**: High-quality plots
 
 ## 🚀 Quick Start
 
@@ -49,7 +49,7 @@ It supports brain-region-specific plots, trial-wise interaction, and flexible re
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nwb-data-viewer.git
+   git clone https://github.com/parviz-gh/nwb-data-viewer.git
    cd nwb-data-viewer
    ```
 
