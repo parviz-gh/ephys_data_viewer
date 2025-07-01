@@ -101,7 +101,7 @@ Thumbs.db
 *.hdf5
 
 # Screenshots and videos (will be added manually)
-screenshots/
+
 videos/
 
 # Logs

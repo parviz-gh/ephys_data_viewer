@@ -169,7 +169,7 @@ This tool was developed for:
 > 
 > Parviz Ghaderi, Sylvain Crochet, and Carl Petersen
 > 
-> *Nature Neuroscience 2025*
+> * 2025*
 
 ## 🤝 Contributing
 
