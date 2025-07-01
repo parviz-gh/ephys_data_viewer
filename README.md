@@ -196,8 +196,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Parviz Ghaderi
 - **Email**: parviz.ghaderi@epfl.ch
-- **Lab**: Brain Mind Institute, EPFL
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Lab**: LSENS, Brain Mind Institute, EPFL
+- **GitHub**: [@parviz-gh](https://github.com/parviz-gh)
 
 ---
 
