@@ -4,7 +4,7 @@
 
 # 🧠 Ephys Data Viewer
 
-🧠 **Ephys Data Viewer** is a lightweight, interactive tool built in Dash for exploring and visualizing neural activity datasets in NWB format.  
+🧠 **Ephys Data Viewer** is a lightweight, interactive tool built in Dash for exploring and visualizing neural activity datasets in **NWB format**.  
 Designed specifically for data related to  	👉 **"Contextual gating of whisker-evoked responses by frontal cortex supports flexible decision making"** (2025).
 It supports brain-region-specific plots, trial-wise interaction, and flexible region mapping. 
 
