@@ -193,8 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Allen Institute**: For brain atlas and CCF coordinates
 - **NWB Community**: For the data format standard
-- **Dash/Plotly**: For the interactive visualization framework
-- **EPFL Brain Mind Institute**: For research support
+- **Prof. Carl petersen and Dr. Sylvain Crochet**: For research support
 
 ## 📞 Contact
 
