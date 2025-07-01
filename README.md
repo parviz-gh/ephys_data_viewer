@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 NWB Data Viewer
 
 > **Interactive Neural Data Visualization Tool for Contextual Gating Studies**
@@ -207,3 +208,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![EPFL](https://img.shields.io/badge/EPFL-Brain%20Mind%20Institute-red.svg)](https://www.epfl.ch/research/domains/brain-mind-institute/)
 
 </div> 
+=======
+# ephys_data_viewer
+>>>>>>> 0ac6f0d5ac1ea3b6b6a1d182cc83416d05389695
