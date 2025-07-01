@@ -5,14 +5,14 @@
 # 🧠 NWB Data Viewer
 
 🧠 **NWB Data Viewer** is a lightweight, interactive tool built in Dash for exploring and visualizing neural activity datasets in NWB format.  
-It supports brain-region-specific plots, trial-wise interaction, and flexible region mapping.
+Designed specifically for data related to  	👉 **"Contextual gating of whisker-evoked responses by frontal cortex supports flexible decision making"** (2025).
+It supports brain-region-specific plots, trial-wise interaction, and flexible region mapping. 
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Dash](https://img.shields.io/badge/Dash-2.0+-orange.svg)](https://dash.plotly.com/)
 [![NWB](https://img.shields.io/badge/NWB-2.0+-green.svg)](https://www.nwb.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-An advanced interactive web application for visualizing and analyzing neural data stored in Neurodata Without Borders (NWB) format. Designed specifically for data related to  	👉 **"Contextual gating of whisker-evoked responses by frontal cortex supports flexible decision making"** (2025).
 
 ## ✨ Features
 
