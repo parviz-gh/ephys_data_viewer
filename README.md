@@ -1,4 +1,7 @@
-![Rotating Brain](screenshots/brain3D.gif)
+<p align="center">
+  <img src="./screenshots/brain3D.gif" alt="Rotating Brain" width="500"/>
+</p>
+
 # 🧠 NWB Data Viewer
 
 > **Interactive Neural Data Visualization Tool for Contextual Gating Studies**
