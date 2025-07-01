@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+![Rotating Brain](screenshots/brain3D.gif)
 # 🧠 NWB Data Viewer
 
 > **Interactive Neural Data Visualization Tool for Contextual Gating Studies**
